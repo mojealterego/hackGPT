@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="./assets/social-preview.svg" alt="HACKGPT — project visual" width="100%">
+
+</div>
+
+---
+
 ![](https://img.shields.io/badge/hackGPT-v23-purple)
 
 `Test the app live here:` https://hackgpt.com
